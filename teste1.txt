@@ -1,0 +1,18 @@
+
+Fluxo Git Flow
+
+master (Não pode ser deletada)
+    
+    Release (versão de teste pre-produção)
+        - Ao finalizar criar uma tag (1.0)
+        - Pull request Master/Develop
+
+develop (Não pode ser deletada)
+
+    features (Darei opção de deletar ao fazer merge)
+
+        Publish se tiver desenvolvendo em par
+        Finish se a gente tiver terminado
+          - Devops
+                pull request develop
+
